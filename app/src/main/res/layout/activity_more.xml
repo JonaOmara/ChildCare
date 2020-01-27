@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".more"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/profileimage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/person_black" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="5dp"
+        android:inputType="textPersonName"
+        android:background="@drawable/edit_back"
+        android:padding="10dp"
+       android:hint="Country"/>
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:hint="Breif Description"
+        android:background="@drawable/edit_back"
+        android:padding="10dp"/>
+    <Button
+        android:onClick="motherp"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:background="@drawable/blue_btn"
+        android:text="Done"
+       android:layout_marginTop="30dp"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

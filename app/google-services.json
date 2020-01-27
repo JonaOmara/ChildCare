@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713688545405",
+    "firebase_url": "https://child-agent-uxvylc.firebaseio.com",
+    "project_id": "child-agent-uxvylc",
+    "storage_bucket": "child-agent-uxvylc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713688545405:android:6a94882c40371af8c51914",
+        "android_client_info": {
+          "package_name": "com.invitech.childcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713688545405-d58mbkama4ehbu7gu8dor7pj64qj0b0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gFIs0lC6DVFF9GrCdCncG5oPBZIwzo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713688545405-d58mbkama4ehbu7gu8dor7pj64qj0b0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

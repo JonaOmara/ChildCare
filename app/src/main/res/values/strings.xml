@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ChildB Care</string>
+    <string name="subscribe">Please click the button below to make a
+        weekly subscription @100 /=</string>
+    <string name="home">Home</string>
+    <string name="doctor">Doctor</string>
+    <string name="Documents">Documents</string>
+    <string name="Profile">Profile</string>
+    <string name="welcome">Hello!\n Welcome, am called B. 
+    \n Would you like to ask me questions about your child? \n
+    You can also talk to a Doctor!</string>
+    <string name="breast">Breastfeeding is very fundamental \n in child growth.
+    It contains most \n of the nutrients required by a growing child.\n
+    Breastfeed at least twice a day!</string>
+    <string name="birth">This is always the long \n awaited moment.
+    most parents don not \n prepare for it fully and end up with challenges.\n
+    Ensure to shop all requirements before!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
