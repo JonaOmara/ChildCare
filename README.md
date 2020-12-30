@@ -1,7 +1,14 @@
 # Child Birth Care App
-![](./images/ch1.png)|![](./images/ch2.png)|![](./images/ch3.png)
-![](./images/ch4.png)|![](./images/ch5.png)|![](./images/ch6.png)
-
+<p align ="center">
+    <img src="./images/ch1.png" width="200" /> 
+    <img src="./images/ch2.png" width="200" /> 
+    <img src="./images/ch3.png" width="200" /> 
+</p>
+<p align ="center">
+    <img src="./images/ch4.png" width="200" /> 
+    <img src="./images/ch5.png" width="200" /> 
+    <img src="./images/ch6.png" width="200" /> 
+</p>
 This is an app that can connect expecting mothers to doctors.
 It can also help a mother store birth certificates after birth.
 The mother can also share and make post about her child and 
@@ -24,9 +31,9 @@ This is an intermediate level project
 ### Setup
 * Install [Android studio](https://developer.android.com/studio)
 * Install [Android Development Tools](https://docs.oracle.com/en/middleware/developer-tools/jet/tutorials/jetma/index.html)
-####Gradle
+#### Gradle
     gradle-5.4.1-all.zip
-####dependecies
+#### dependecies
 
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
@@ -48,9 +55,9 @@ This is an intermediate level project
     annotationProcessor 'com.google.dagger:dagger-compiler:2.24'
     annotationProcessor 'org.apache.logging.log4j:log4j-core:2.2'
 
-####TODO
+#### TODO
     Implement file display functionality
     Implement News feeds
     Implement Call functionality
 ### License
-This project is licensed under [MIT license](./LICENSE.md) terms
+This project is licensed under [MIT license](./LICENSE) terms
